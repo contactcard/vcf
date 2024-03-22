@@ -6,7 +6,8 @@ ORG:Fortinet Technologies;
 TITLE:CAM/Major Account Manager
 EMAIL;type=INTERNET;type=WORK;type=pref:drumble@Fortinet.com
 TEL;type=CELL;type=VOICE;type=pref:+1 (416) 951-4684
-ADR;type=WORK;type=pref:;;326 Moodie Drive;Nepean;Ontario;K2H 8G3;Canadaitem1.URL;type=pref:https://www.fortinet.com
+ADR;type=WORK;type=pref:;;326 Moodie Drive;Nepean;Ontario;K2H 8G3;Canada
+URL;type=WORK:https://www.fortinet.com
 URL;type=WORK:https://www.fortiguard.com
 URL;type=WORK:https://docs.fortinet.com
 URL;type=WORK:https://support.fortinet.com
